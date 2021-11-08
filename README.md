@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nei22
+- 👋 Hi, I’m Ednei
 - 👀 I’m interested in ... code
 - 🌱 I’m currently learning ... code
 - 💞️ I’m looking to collaborate on ... code
