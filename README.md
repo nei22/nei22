@@ -1,6 +1,6 @@
 ### Olá! Eu sou Ednei Louback 🌙
 
-[[instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.ertido/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.ertido/)
 - 📫 How to reach me ... https://www.linkedin.com/feed/
 
 <!---
