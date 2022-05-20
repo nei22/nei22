@@ -8,8 +8,7 @@
 
 <div style="display: inline-block"><br/>
         <img align="center" src="" alt="html5" srcset="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        
-    </div>
+</div>
 
 <!---
 nei22/nei22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
