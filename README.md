@@ -1,7 +1,7 @@
 ### Olá! Eu sou Ednei R Louback 🌙
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.ertido/)
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednei-louback-593395b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednei-louback-593395b5/)
 
 <!---
 nei22/nei22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
